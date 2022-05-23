@@ -18,7 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'telmel', // Usually your GitHub org/user name.
   projectName: 'telmel.github.io', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "master",
 
 
   // Even if you don't use internalization, you can use this field to set useful
